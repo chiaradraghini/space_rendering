@@ -10,3 +10,5 @@ A top-level view of the planets orbiting around the sun.
 <img width="800" alt="Screenshot 2023-09-18 at 1 53 11 PM" src="https://github.com/dmora4/space_project/assets/38199805/7691f2a9-a0a4-4fd0-8184-e7d9474030e4">
 
 Light models were customized. 
+
+This project was done in collaboration with my colleague Destiny Mora.
